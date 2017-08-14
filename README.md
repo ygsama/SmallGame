@@ -1,5 +1,5 @@
-# SmallProj
-There are some small project with JavaSE
+# SmallGame
+There are some small game-project with JavaSE
 + MyStar		★☆☆☆☆
 + MyBall		★★☆☆☆
 + MyWord		★★☆☆☆
